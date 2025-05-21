@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w45WCC+bHVo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aliss\\source\\repos\\Solution8\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliss\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.3\\microsoft.dotnet.ilcompiler.9.0.3.nupkg.sha512",
+    "C:\\Users\\aliss\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.3\\microsoft.net.illink.tasks.9.0.3.nupkg.sha512",
+    "C:\\Users\\aliss\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
