@@ -16,8 +16,8 @@ Pilha (Stack<string>)
 
 **Pesquisa (Busca Linear)** (List<int>`)
 
-✅ Detalhes de Cada Módulo
-🔢 Vetores
+ Detalhes de Cada Módulo
+Vetores
 Inserir elementos inteiros
 
 Remover elementos por valor
@@ -26,14 +26,14 @@ Exibir todos os elementos
 
 Buscar elemento (verifica se está presente)
 
-🧮 Matrizes (3x3)
+Matrizes (3x3)
 Inserir valor em posição [linha, coluna]
 
 Exibir todos os elementos
 
 Buscar um valor na matriz
 
-📋 Lista
+Lista
 Inserir elementos (strings)
 
 Remover elementos por valor
@@ -49,14 +49,14 @@ Remover o primeiro (dequeue)
 
 Exibir todos os elementos
 
-📤 Pilha (Stack)
+Pilha (Stack)
 Inserir elementos (push)
 
 Remover o último inserido (pop)
 
 Exibir todos os elementos
 
-🔍 Algoritmos de Pesquisa
+Algoritmos de Pesquisa
 Inserir números
 
 Remover números
@@ -65,14 +65,14 @@ Exibir todos
 
 Buscar elemento usando Busca Linear
 
-🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 Linguagem: C#
 
 Plataforma: .NET Console
 
 IDE recomendada: Visual Studio ou Visual Studio Code
 
-▶️ Como Executar
+Como Executar
 Clone o repositório:
 
 bash
@@ -89,7 +89,7 @@ Copiar
 Editar
 dotnet build
 dotnet run
-📚 Aprendizados
+Aprendizados
 Este projeto ajuda no entendimento de:
 
 Uso de estruturas de dados básicas em C#
