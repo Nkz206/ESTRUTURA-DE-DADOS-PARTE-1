@@ -78,7 +78,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/MenuEstruturasDados.git
+git clone
 cd MenuEstruturasDados
 Abra o projeto com o Visual Studio ou VS Code.
 
