@@ -1,7 +1,7 @@
 Menu de Estruturas de Dados em C#
 Este projeto implementa um menu interativo no console em C# para manipular diversas estruturas de dados, com o objetivo de facilitar o aprendizado prático sobre como vetores, matrizes, listas, filas, pilhas e algoritmos de busca funcionam.
 
-💻 Funcionalidades
+Funcionalidades
 O menu principal oferece acesso aos seguintes módulos:
 
 Vetores (List<int>)
@@ -42,7 +42,7 @@ Exibir todos os elementos
 
 Buscar elemento
 
-📥 Fila (Queue)
+Fila (Queue)
 Inserir elementos (enqueue)
 
 Remover o primeiro (dequeue)
